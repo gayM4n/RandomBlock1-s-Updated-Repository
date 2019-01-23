@@ -11,7 +11,7 @@ So I did.
 ## Games
 ### [Click Here to Access Surviv.io](https://randomblock1.github.io/unblock-survivio/survivio.html "Surviv.io Unblocked!")
 ### [Click Here to Access Shell Shockers](https://randomblock1.github.io/unblock-survivio/shellshockers.html "Shell Shockers Unblocked!")
-### [Click Here to Access Bonk.io](https://randomblock1.github.io/unblock-survivio/bonk.html "Bonk.io Unblocked!")
+### [Click Here to Access Bonk.io](https://github.com/gayM4n/RandomBlock1-s-Updated-Repository/blob/master/bonk.html")
 Share this link to help others have fun! [bit.ly/surviv-io](http://bit.ly/surviv-io)
 ### [Click Here to Access OurWorld](https://randomblock1.github.io/unblock-survivio/ourworld.html "OurWorld Unblocked!")
 ### [Click Here to Access Agar.io](https://gayM4n.github.io/RandomBlock1-s-Updated-Repository/blob/master/agario.html "Agar.io Unblocked!")
